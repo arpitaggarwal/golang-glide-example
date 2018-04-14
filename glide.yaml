@@ -1,0 +1,3 @@
+package: golang-glide-example
+import:
+- package: github.com/fatih/color
